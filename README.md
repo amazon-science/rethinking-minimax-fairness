@@ -58,7 +58,7 @@ The script runs all models for the given dataset once including and once excludi
 
 ---
 
-## Credits (also see [THIRD-PARTY-LICENSES](../blob/master/THIRD-PARTY-LICENSES))
+## Credits (also see [THIRD-PARTY-LICENSES](../blob/main/THIRD-PARTY-LICENSES))
 This repo contains code modified from the following GitHub repos
 
 1. [folktables](https://github.com/socialfoundations/folktables), MIT license
