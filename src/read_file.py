@@ -27,3 +27,4 @@ def read_dataset_from_file(file_path, ):
     group_types = data.get('group_types', [])
     is_binary = data['is_binary']
     return X, Y, grouplabels, group_sets, group_types, is_binary
+
